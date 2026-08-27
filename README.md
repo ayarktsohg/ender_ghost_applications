@@ -19,7 +19,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/folder-comparator.git
+git clone https://github.com/ayarktsohg/ender_ghost_applications.git
 cd folder-comparator
 ```
 2. Создайте виртуальное окружение:
