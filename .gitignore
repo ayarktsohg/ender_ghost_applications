@@ -1,0 +1,30 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Файлы IDE
+.vscode/
+.idea/
+*.iml
+
+# Временные папки
+word_converter_temp/
+*.temp.png
+*.temp.json
+
+# Логи
+*.log
+conversion_log_*.json
+
+# Системные файлы
+Thumbs.db
+.DS_Store
